@@ -86,3 +86,8 @@ span {
 ._text_Part p {
   width: 80%;
 }
+
+._color {
+  color: #fff !important;
+  font-size: 12px !important;
+}
